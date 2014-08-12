@@ -1,0 +1,7 @@
+{
+  "name": "vundle-doc#gh-pages",
+  "private": true,
+  "dependencies": {
+    "vundle-doc": "BradDenver/vundle-doc#master"
+  }
+}
