@@ -1,7 +1,10 @@
 {
   "name": "vundle-doc",
-  "version": "0.0.0",
-  "keywords": "seed, polymer, web-components",
+  "version": "0.0.1",
+  "authors": ["Brad Denver"],
+  "keywords": ["GitHub", "Polymer", "vim", "Vundle", "web-components"],
+  "license": "MIT",
+  "homepage": "http://braddenver.github.io/vundle-doc",
   "main": "vundle-doc.html",
   "dependencies": {
     "polymer": "Polymer/polymer#~0.3.5",
